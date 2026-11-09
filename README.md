@@ -14,6 +14,8 @@ g++ -std=c++17 -Wall -Wextra -o main main.cpp
 ./main
 ```
 
+En OnlineGDB: Language C++17, pegar main.cpp y Run
+
 ## Preguntas
 
 ### 1. ¿Qué pasa si el destructor de `TransportMode` no es virtual?
